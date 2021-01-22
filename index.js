@@ -1,4 +1,4 @@
-const api = '00864a650abc70390dd769b2c6565a8e';
+const api = 'Your Api key';
 const btn = document.querySelector('.btn');
 
 window.addEventListener('load', () => {
